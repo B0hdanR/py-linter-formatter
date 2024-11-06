@@ -1,4 +1,3 @@
-from dbm import error
 import json
 
 def format_linter_error(error: dict) -> dict:
